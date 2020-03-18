@@ -21,17 +21,21 @@ h1 {
   margin: 20px auto;
 }
 
+.blogcontainer {
+  text-align: center;
+}
+
 .blogpost {
   background-color: white;
   border-style: solid;
   border-width: 1px;
   border-color: black;
   margin-top: 20px;
+  margin-bottom: 20px;
   padding: 20px;
   width: 50%;
-  display: block;
-  margin: 20px auto;
-  text-align: center;
+  display: inline-block;
+  text-align: left;
 }
 
 .picture {
