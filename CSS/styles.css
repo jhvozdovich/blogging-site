@@ -1,0 +1,40 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.about {
+  color: darkolivegreen;
+  background-color: lightgoldenrodyellow;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  margin-top: 20px;
+  padding: 20px;
+  width: 50%;
+  display: block;
+  margin: 20px auto;
+}
+
+.blogpost {
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  margin-top: 20px;
+  padding: 20px;
+  width: 50%;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.picture {
+  display: block;
+  margin: 0 auto;
+}
