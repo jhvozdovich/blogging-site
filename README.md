@@ -19,7 +19,7 @@ _This exercise demonstrates the use of HTML div elements with class attributes t
 
 ## Known Bugs
 
-No known bugs.
+Still working on responsive style. Intermediate sizing overlaps inappropriately.
 
 ## Support and contact details
 
