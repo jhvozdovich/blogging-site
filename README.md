@@ -1,4 +1,4 @@
-# _Boring Lecture Webpage_
+# _Blogging Site Webpage_
 
 #### _HTML and CSS Epicodus Project for Div Styling, March 18, 2020_
 
